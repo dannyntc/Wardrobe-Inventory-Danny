@@ -4,6 +4,32 @@
 
 The demo uses fictional starter data, generic location labels, bundled sample illustrations, and browser-only saving. It does not access the personal wardrobe or share edits between visitors.
 
+## See it in action
+
+The public demo opens with a fictional wardrobe split across two generic locations. It is a safe way to explore the interface before setting up a private deployment.
+
+![Wardrobe demo overview showing two locations, occasion cards, search, filters, and browser-only saving](docs/screenshots/wardrobe-overview.png)
+
+_Overview: browse by location and occasion, switch between Overview and List, search the board, or open the structure manager._
+
+### Quick guide
+
+1. **Browse the board.** Start in **Overview** and select an occasion card such as **Formal**, **Casual**, or **Home & activewear** to drill into a location. Switch to **List** when you want every matching piece in one view.
+
+   ![Wardrobe demo in List view filtered for jeans, showing matching pieces in both locations](docs/screenshots/wardrobe-find-a-piece.png)
+
+2. **Find a piece.** Enter a name, garment, shoe, or note in **Search clothing**. Use **Filters** to narrow the results by occasion, garment group, garment type, colour, or brand. Open a piece card to see its details, adjust its quantity, move it, or use the edit control.
+
+3. **Add or edit a piece.** Select **Add** on a location card, then enter the name and choose the occasion, group, garment type, brand, colour, location, and quantity. The demo uses bundled sample illustrations and does not accept personal photo uploads. Select **Add piece** for a new entry or **Save piece** when editing.
+
+   ![Wardrobe demo Add clothing form with a fictional blue linen shirt example](docs/screenshots/wardrobe-add-piece.png)
+
+4. **Organize the structure.** Select **Manage wardrobe structure** to add or rename occasions and garment types, or to review keyword autofill rules. These changes remain a draft until you save the board.
+
+   ![Wardrobe demo structure manager showing occasions, garment groups, and garment types](docs/screenshots/wardrobe-structure.png)
+
+5. **Save or reset the demo.** Select **Save changes** to keep your draft in the current browser. Demo changes are local to that browser and do not affect the personal wardrobe or another visitor’s demo. Select **Reset demo** to restore the fictional starter board.
+
 This project provides a shared men’s wardrobe inventory across two locations:
 
 - GitHub stores the website source code.
