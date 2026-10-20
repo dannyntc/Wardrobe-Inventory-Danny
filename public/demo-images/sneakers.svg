@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-labelledby="title desc">
+  <title id="title">Sample sneaker illustration</title>
+  <desc id="desc">A simple white sneaker illustration on a pale background.</desc>
+  <rect width="320" height="240" rx="18" fill="#e9edf0"/>
+  <path d="M63 148c21-5 45-18 62-43l20-31 28 28 28 25c18 15 40 19 68 24 14 3 22 14 22 27H63c-8-10-8-24 0-30Z" fill="#fafafa" stroke="#20313c" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M84 178h165c14 0 25 5 29 14H73c-10-4-12-10 11-14Z" fill="#cbd4d8" stroke="#20313c" stroke-width="5"/>
+  <path d="m155 90 22 31M174 106l22 25M193 122l20 17" stroke="#92a2aa" stroke-width="5" stroke-linecap="round"/>
+</svg>

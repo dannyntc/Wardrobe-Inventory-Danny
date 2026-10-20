@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-labelledby="title desc">
+  <title id="title">Sample trousers illustration</title>
+  <desc id="desc">A simple charcoal trousers illustration on a pale background.</desc>
+  <rect width="320" height="240" rx="18" fill="#edf0ed"/>
+  <path d="M108 42h104l18 150h-48l-22-84-22 84H90l18-150Z" fill="#4c5961" stroke="#1d3039" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M108 42h104l-5 34H113l-5-34Z" fill="#66747a" stroke="#1d3039" stroke-width="5"/>
+  <path d="M160 78v30" stroke="#1d3039" stroke-width="4" opacity=".55"/>
+</svg>

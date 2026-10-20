@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-labelledby="title desc">
+  <title id="title">Sample shirt illustration</title>
+  <desc id="desc">A simple blue shirt illustration on a pale background.</desc>
+  <rect width="320" height="240" rx="18" fill="#e8eef2"/>
+  <path d="M110 55 143 38h34l33 17 29 22-20 31-20-13v91H121v-91l-20 13-20-31 29-22Z" fill="#4b78a5" stroke="#173047" stroke-width="6" stroke-linejoin="round"/>
+  <path d="m143 38 17 20 17-20" fill="none" stroke="#e8eef2" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M160 61v125" stroke="#173047" stroke-width="4" opacity=".55"/>
+  <circle cx="160" cy="88" r="4" fill="#e8eef2"/><circle cx="160" cy="115" r="4" fill="#e8eef2"/><circle cx="160" cy="142" r="4" fill="#e8eef2"/>
+</svg>
